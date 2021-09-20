@@ -282,6 +282,7 @@ footer {
     }
     
     .lower-main {
+        max-width: 750px;
         display: flex;
         flex-direction: column;
         grid-gap: 8px;
