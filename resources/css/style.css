@@ -198,7 +198,7 @@ footer {
 
 /* -----------------------------media queries---------------------------------- */
 
-@media only screen and (max-width: 768px) and (orientation: portrait) {
+@media only screen and (max-width: 768px) {
     nav ul {
         position: static;
     }
@@ -310,7 +310,7 @@ footer {
     }
 }
 
-@media only screen and (max-width: 540px) and (orientation: portrait) {
+@media only screen and (max-width: 540px) {
     .image-container {
         grid-area: 1 / 1 / 7 / 11;
     }
